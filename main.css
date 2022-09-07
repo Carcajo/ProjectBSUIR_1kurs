@@ -1,0 +1,38 @@
+.board {
+    width: 400px;
+    /*margin: auto;*/
+    top:-100px;
+}
+
+.info {
+    width: 400px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
+}
+.contAINERfORMax{text-align: center;
+margin-top: 150px;}
+.containerMax{
+  width: 700px;
+  display: inline-flex;
+  flex-direction: row-reverse;
+  align-content: flex-start;
+  position: relative;
+}
+
+.board{
+margin-left: -150px;}
+
+.info{
+align-self: flex-start;
+position: relative;
+top:-150px;
+text-align: left;
+left:50px;}
+
+.move-history{
+  width: 100px;
+}
